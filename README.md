@@ -1,5 +1,6 @@
 
-![Captura de Tela (11)](https://github.com/user-attachments/assets/8d6931fc-66f9-4f86-8b5f-3c678514daf6)
+![Captura de Tela (12)](https://github.com/user-attachments/assets/5824d38b-be32-4c3b-a54c-c45909223eef)
+
 # Serverest API - Coleção Postman
 
 Esta é a coleção Postman para a API [Serverest](https://serverest.dev/), que permite testar endpoints para gerenciamento de usuários, produtos e carrinhos de compras.
